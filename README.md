@@ -19,12 +19,13 @@ Pricing | One Time Fee of $3.99 USD | Monthly fee of $1.99 USD | Monthly fee of 
 3. Pages written in HTML may lack features such as submitting forms, or having forums. Pages written in PHP can have features including forums (if the plan allows it), a blog, and much more.
 
 # Customization
-Users will email remotevase@gmail.com to sign up for an account. In that email, the following will be there:
-their paypal account (or @AmiroEmad however paying works b/c we are using ur paypal account)
-The plan that they would like to have
-Any pictures that they would like to have, along with any captions to go along with it
-Subsections on the pages and what text they would like to have in them
-Amount of pages wanted
-The picture that you want to be the page background if Starter Plan
-The picture that you want to be at the top of the page if Intermediate or Pro Plan
+Users will email amir.emad9@gmail.com to sign up for an account. 
+In that email, the following must be there:
+* their paypal account (or @AmiroEmad however paying works b/c we are using ur paypal account)
+* The plan that they would like to have
+* Any pictures that they would like to have, along with any captions to go along with it
+* Subsections on the pages and what text they would like to have in them
+* Amount of pages wanted
+* The picture that you want to be the page background if Starter Plan
+* The picture that you want to be at the top of the page if Intermediate or Pro Plan <br>
 ##### If you believe that something may not be possible, ask! If anything is not possible, we will definitely tell you!
