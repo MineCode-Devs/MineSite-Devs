@@ -28,4 +28,5 @@ In that email, the following must be there:
 * Amount of pages wanted
 * The picture that you want to be the page background if Starter Plan
 * The picture that you want to be at the top of the page if Intermediate or Pro Plan <br>
+
 ##### If you believe that something may not be possible, ask! If anything is not possible, we will definitely tell you!
