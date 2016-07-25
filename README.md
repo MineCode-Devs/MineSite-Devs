@@ -17,3 +17,7 @@ Pricing | One Time Fee of $3.99 USD | Monthly fee of $1.99 USD | Monthly fee of 
 1. Availability may vary
 2. Domain costs will be located in main website at pricing.html near the bottom of the page
 3. Pages written in HTML may lack features such as submitting forms, or having forums. Pages written in PHP can have features including forums (if the plan allows it), a blog, and much more.
+
+# Customization
+Users will email remotevase@gmail.com to sign up for an account. In that email, the following will be there:
+their paypal account (or @AmiroEmad however paying works b/c we are using ur paypal account)
