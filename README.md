@@ -8,6 +8,7 @@ Every month, users have to pay a certain amount for different plans.
 Features | Starter Plan | Intermediate Plan | Pro Plan
 :---|:---:|:---:|:---:
 Customization (See Customization Section) | Y | Y | Y
+When customization is allowed | Until the website is finished | Until you cancel the website | Until the website is cancelled
 Pages on website | Up to 3 | Up to 5 | Unlimited
 Style | Very basic | Basic - Moderate | Any (Basic-professional)
 Hosting | Must host on your own | Almost any .TK / .ML / .GA / .CF / .GQ Domain [GOTO- 1] | Any domain (Additional cost may apply) [GOTO- 2]
