@@ -31,3 +31,6 @@ In that email, the following must be there:
 * The picture that you want to be at the top of the page if Intermediate or Pro Plan <br>
 
 ##### If you believe that something may not be possible to make in HTML, ask! If anything is not possible, we will definitely tell you!
+
+# Licence
+We reserve the right to cancel your service without refund if your "unlimited" rights are abused, or if illegal content is asked to be put on the sites.
