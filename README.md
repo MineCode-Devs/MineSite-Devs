@@ -1,5 +1,5 @@
-# Web-biz
-Website business! 
+# MineSite-Devs
+Business where we make and host websites!
 
 # The idea:
 This will be a business that gives profits. 
@@ -19,9 +19,9 @@ Pricing | One Time Fee of $3.99 USD | Monthly fee of $1.99 USD | Monthly fee of 
 3. Pages written in HTML may lack features such as submitting forms, or having forums. Pages written in PHP can have features including forums (if the plan allows it), a blog, and much more.
 
 # Customization
-Users will email amir.emad9@gmail.com to sign up for an account. 
+Users will email MineCodeDevs@gmail.com to sign up for an account. 
 In that email, the following must be there:
-* their paypal account (or @AmiroEmad however paying works b/c we are using ur paypal account)
+* their paypal account (or however paying works)
 * The plan that they would like to have
 * Any pictures that they would like to have, along with any captions to go along with it
 * Subsections on the pages and what text they would like to have in them
